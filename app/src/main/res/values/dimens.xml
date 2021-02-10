@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginGeneral">16dp</dimen>
+    <dimen name="imageViewMarginTop">200dp</dimen>
+    <dimen name="signInBtnWidth">180dp</dimen>
+    <dimen name="signInBtnMarginTop">100dp</dimen>
+    <dimen name="signInBtnMarginBottom">150dp</dimen>
+    <dimen name="nameCornerRadius">25dp</dimen>
+    <dimen name="cardHeight">50dp</dimen>
+    <dimen name="cardMarginBottom">10dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="nameTextSize">20sp</dimen>
+    <dimen name="recyclerMarginTop">80dp</dimen>
+    <dimen name="elev">5dp</dimen>
+    <dimen name="tvSize">35sp</dimen>
+    <dimen name="itemElev">2dp</dimen>
+    <dimen name="itemWidth">0dp</dimen>
+    <dimen name="itemPadding">5dp</dimen>
+    <dimen name="itemTextSize">15dp</dimen>
+</resources>
